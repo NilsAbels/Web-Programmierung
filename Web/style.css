@@ -1,0 +1,22 @@
+.Nils {
+    float: left;
+    width: 50%;
+    text-align: center;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.Hobby {
+    float: left;
+    width: 50%;
+}
+
+.Erfahrung {
+    float: left;
+    width: 50%;
+}
